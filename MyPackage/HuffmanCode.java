@@ -1,5 +1,7 @@
 package MyPackage;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class HuffmanCode {
     private static HuffmanNode root;
