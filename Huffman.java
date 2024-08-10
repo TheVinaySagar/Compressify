@@ -73,7 +73,7 @@ public class Huffman {
         }
         Compressed compress = new Compressed(str, values, "Media\\Compressed.text");
         compress.compress();
-        Decompressed decompressed = new Decompressed(root, "Media\\Compressed.text", "Media\\De.text");
-        decompressed.decompress();
+        Decompressed decompress = new Decompressed(root, "Media\\Compressed.text", "Media\\De.text");
+        decompress.decompress();
     }
 }
