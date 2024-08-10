@@ -10,7 +10,6 @@ import java.util.HashMap;
 public class Huffman {
 
     private static HuffmanNode root;
-    
     // private static void visualizeTree(HuffmanNode node, int depth) {
     //     if (node == null) {
     //         return;
