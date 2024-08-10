@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.BufferedWriter;
 
-import java.util.*;
+import java.util.HashMap;
 
 public class Huffman {
 
