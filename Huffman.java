@@ -1,3 +1,5 @@
+// Huffman Coding Project //
+
 import MyPackage.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
